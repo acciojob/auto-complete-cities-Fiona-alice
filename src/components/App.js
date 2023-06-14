@@ -32,6 +32,6 @@ const App = () => {
       </ul>
     </div>
   );
-}
+};
 
 export default App
